@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    color: white;
+    border: 5px solid gray;
+    border-radius: 2px;
+    display: flex;
+    align-items:flex-start;
+}
+h1 {
+    text-align: center;
+    background: black;
+    margin: 15px;
+    display: block;
+}
+img {
+    background: none;
+    
+    width: 20px;
+}
+button {
+    background-color: gray;
+    border-radius: 10px;
+    margin: 15px;
+}
+#quickAccessButton {
+    border: 3px solid gray;
+    border-radius: 3px;
+    margin: 15px;
+}
+#tabsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    margin: 10px;
+}
+#taskTable {
+    background-color: black;
+    border: 2px solid whitesmoke;
+    color:whitesmoke;
+}
+.row {
+    align-self: center;
+    background-color: rgb(73, 122, 124);
+}
+.taskName {
+    text-align: center;
+}
+.ramUsage {
+    text-align: center;
+}
+.description {
+    align-self: center;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+
+
