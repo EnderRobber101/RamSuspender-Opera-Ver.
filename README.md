@@ -5,7 +5,7 @@ This is for opera sidebar
 
 This extension allows the user to suspend tabs so they don't take up any ram. You can manualy snooze tabs! Shows a list of tabs to snooze. DO NOT use on tabs with unfinished/unsaved work. Ram usage stats feature comming soon! 
 
-Works in Chrome,Opera,Edge, and other chrome based browsers!
+Works in Opera only
 
 Install:
 1.Clone this repo 
